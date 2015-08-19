@@ -1,1 +1,2 @@
 critical fix 2
+Test release 1.0
